@@ -11,3 +11,5 @@ Built with a fully responsive layout, Flex Movies is optimized for desktops, tab
 *Additional movie details, such as release date, genre, director, cast, runtime, and language, are also provided for an enriched browsing experience.
 
 *Each search result includes the official movie poster, creating a visually immersive experience that lets users instantly recognize films.
+
+Here is the live link :- https://flex-movies-01.netlify.app/
